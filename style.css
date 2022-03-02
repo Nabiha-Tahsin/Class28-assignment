@@ -1,0 +1,152 @@
+.header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    z-index: 99999;
+}
+
+.navbar-brand img{
+    width: 90px;
+}
+
+.banner-text{
+    margin-top: 120px;
+}
+
+.button{
+    background-color: #8490ff;
+    color:  #fff;
+    transition: .5s;
+}
+.button:hover{
+    background-color: #737dd6;
+    color:  #fff;
+}
+
+.banner{
+    margin-top: 85px;
+}
+
+.banner-text span{
+    color: #393E44;
+    font-size: 18px;
+}
+
+
+.about-img {
+    width: 95%;
+}
+
+
+.number{
+    background-color:#737dd6 ;
+    padding: 80px 0;
+}
+
+/********* PRICING SECTION *********/
+
+.pricing{
+    background-color: #f9f9ff;
+
+}
+
+.p-text{
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.pricing-box{
+    background-color: #fff;
+    margin-top: 30px;
+    box-shadow: 1px 1px 8px #a1aaff2d;
+}
+
+
+.pricing-box h3{
+    background-color: #f9f9ff;
+    padding: 30px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.pricing-box h5{
+    color: #4A4D51;
+}
+
+.pricing-box ul li{
+    list-style: none;
+    color: #707070;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+.p-button{
+    display: inline-block;
+    border: 1px solid #8490ff;
+    text-decoration: none;
+    padding: 12px 25px;
+    font-weight: 500;
+    color: #8490ff;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 1px 1px 8px #8490ff67;
+    transition: .5s;
+    margin-bottom: 20px;
+}
+.p-button:hover{
+    color: #fff;
+    background-color: #8490ff;
+    box-shadow: 1px 1px 8px #8490ff67;
+}
+
+
+/********** MEMBER SECTION ***********/
+
+.member-box{
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.11);
+    padding: 30px;
+    position: relative;
+}
+
+.member-box img{
+    width: 80px;
+}
+
+.member-img {
+    position: absolute;
+    top: -50px;
+    left: 10px;
+}
+
+/******* CONTACT SECTION ********/
+
+.contact{
+    background-color: #f9f9ff;
+}
+.contact p{
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.contact-form button{
+    background-color: #17a2b8;
+    color: #fff;
+}
+
+.contact-form button:hover{
+    background-color: #118799;
+    color: #fff;
+}
+
+.contact-number{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+
+
+
+
