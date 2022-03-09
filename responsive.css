@@ -154,30 +154,6 @@
     }
     /********* NUMBER SECTION END ***********/
 
-    /********* PRICING SECTION START ***********/
-
-    .pricing-box {
-        margin-top: 40px;
-        margin-right: 20px;
-        margin-left: 20px;
-    }
-    
-    .pricing-box ul li {
-        font-size: 15px;
-        margin-bottom: 16px;
-    }
-
-    .pricing-box h3 {
-        padding: 25px;
-        font-size: 20px;
-    }
-
-    .p-button {
-        padding: 6px 20px;
-    }
-
-    /********* PRICING SECTION END ***********/
-
     /********* MEMBER SECTION START ***********/
     
     .member-box {
